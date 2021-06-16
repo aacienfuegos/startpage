@@ -35,16 +35,16 @@
       ]
     }
   ],
-  "searchEngine":"DuckDuckGo",
-  "user": "Deepjyoti",
+  "searchEngine":"Google",
+  "user": "aacienfuegos",
   "disableMessage": false,
   "disableDate": false,
   "disableSearchBar": false,
   "disable24Hour": false,
   "disableWeather": true,
-  "timeZone": "America/Los_Angeles",
+  "timeZone": "Europe/Madrid",
   "weatherConf": {
-    "location": "Pune India",
+    "location": "Cartagena Spain",
     "unit": "cel"
   },
   "settingsIcon": false,
